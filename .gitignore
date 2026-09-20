@@ -1,0 +1,12 @@
+config.ps1
+*.log
+*.tmp
+Screenshots/
+Logs/
+Backup/
+History.db
+ApplicationConfig.json
+HotkeysConfig.json
+UploadersConfig.json
+Thumbs.db
+Desktop.ini
